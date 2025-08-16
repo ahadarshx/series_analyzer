@@ -28,3 +28,10 @@ This project was implemented by following [this tutorial on YouTube](https://you
 
 ---
 
+## 📊 Visualizations
+
+### Character Relations
+![Character Relations](images/relation_canvas.png)
+
+### Theme Distribution
+![Theme Distribution](images/theme_plot.png)
