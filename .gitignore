@@ -2,8 +2,5 @@
 *.ipynb_checkpoints
 *.env
 *__pycache__
-# Ignore Gradio cache
 .gradio/
-
-# Ignore environment example file
 .env_example
