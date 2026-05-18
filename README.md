@@ -1,6 +1,6 @@
 # TV Series NLP Analysis Suite (Naruto Example)
 
-A complete, end-to-end pipeline for collecting, processing, analyzing, and interacting with TV series dialogue using modern NLP and LLM tooling. While the walkthrough uses **Naruto**, the system is fully generalizable to any show with available subtitles/transcripts.
+A complete, end-to-end pipeline for collecting, processing, analyzing, and interacting with TV series dialogue using modern NLP and LLM tooling.
 
 This project was implemented by following [this tutorial on YouTube](https://youtu.be/_Hxb1zoY0Qw). All credit for the original idea and guidance goes to the tutorial author — I rebuilt and extended the project for learning and experimentation.
 
